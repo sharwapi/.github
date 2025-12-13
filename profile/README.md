@@ -1,6 +1,6 @@
 # SharwAPI
 
-[简体中文](/README_CN.md) | [English](/README.md)
+[简体中文](/profile/README_CN.md) | [English](/profile/README.md)
 
 [![Stars](https://img.shields.io/github/stars/sharwapi/sharwapi.core?label=Stars)](https://github.com/sharwapi/sharwapi.core)
 [![Github release](https://img.shields.io/github/v/tag/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/releases)
@@ -9,7 +9,7 @@
 
 SharwAPI (also known as Sharw's API) is a modular API framework built on .NET. It is lightweight, high-performance, extensible, and easy to use.
 
-**[Documentation | 文档](https://sharwapi.hope-now.top)** | **[Download | 下载](https://github.com/sharwapi/sharwapi.core/releases)** | **[Plugin Market | 插件市场](https://sharwapi.hope-now.top/market)**
+**[Documentation](https://sharwapi.hope-now.top)** | **[Download](https://github.com/sharwapi/sharwapi.core/releases)** | **[Plugin Market](https://sharwapi.hope-now.top/market)**
 
 ## Features
 
