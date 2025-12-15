@@ -1,6 +1,6 @@
 # SharwAPI
 
-[简体中文](/README_CN.md) | [English](/README.md)
+[简体中文](/profile/README_CN.md) | [English](/profile/README.md)
 
 [![Stars](https://img.shields.io/github/stars/sharwapi/sharwapi.core?label=Stars)](https://github.com/sharwapi/sharwapi.core)
 [![Github release](https://img.shields.io/github/v/tag/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/releases)
@@ -35,11 +35,11 @@ SharwAPI (又称Sharw's API) 是一款基于.NET开发的模块化API框架，�
 本组织中的不同项目拥有不同的许可证，大致如下：
 
 - [sharwapi_docs](https://github.com/sharwapi/sharwapi_docs) 基于 [MIT License](https://github.com/sharwapi/sharwapi_docs/blob/main/LICENSE-CODE.md) 和 [CC-BY-4.0 License](https://github.com/sharwapi/sharwapi_docs/blob/main/LICENSE-CONTENT.md) 获得许可
-- [sharwapi_plugins_collection](https://github.com/sharwapi/sharwapi_plugins_collection) 基于 [MIT License](https://github.com/sharwapi/sharwapi_plugins_collection/blob/main/LICENSE.md) 获得许可
-- [sharwapi.Plugin.guard](https://github.com/sharwapi/sharwapi.Plugin.guard) 基于 [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.guard/blob/main/LICENSE.md) 获得许可
-- [sharwapi_market](https://github.com/sharwapi/sharwapi_market) 基于 [GNU Affero General Public License v3.0](https://github.com/sharwapi/sharwapi_market/blob/main/LICENSE.md) 获得许可
-- [sharwapi.Plugin.apimgr](https://github.com/sharwapi/sharwapi.Plugin.apimgr) 基于 [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.apimgr/blob/main/LICENSE.md) 获得许可
-- [sharwapi.Contracts.Core](https://github.com/sharwapi/sharwapi.Contracts.Core) 基于 [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Contracts.Core/blob/main/LICENSE.md) 获得许可
+- [sharwapi_plugins_collection](https://github.com/sharwapi/sharwapi_plugins_collection) 基于 [MIT License](https://github.com/sharwapi/sharwapi_plugins_collection/blob/main/LICENSE) 获得许可
+- [sharwapi.Plugin.guard](https://github.com/sharwapi/sharwapi.Plugin.guard) 基于 [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.guard/blob/main/LICENSE) 获得许可
+- [sharwapi_market](https://github.com/sharwapi/sharwapi_market) 基于 [GNU Affero General Public License v3.0](https://github.com/sharwapi/sharwapi_market/blob/main/LICENSE) 获得许可
+- [sharwapi.Plugin.apimgr](https://github.com/sharwapi/sharwapi.Plugin.apimgr) 基于 [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.apimgr/blob/main/LICENSE) 获得许可
+- [sharwapi.Contracts.Core](https://github.com/sharwapi/sharwapi.Contracts.Core) 基于 [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Contracts.Core/blob/main/LICENSE) 获得许可
 - [sharwapi.Core](https://github.com/sharwapi/sharwapi.Core) 基于 [GNU General Public License v3.0](https://github.com/sharwapi/sharwapi.Core/blob/main/LICENSE) 获得许可
 
 ## 待办

@@ -35,11 +35,11 @@ Main repositories under this organization:
 Different projects within this organization operate under different licenses, roughly as follows:
 
 - [sharwapi_docs](https://github.com/sharwapi/sharwapi_docs) is licensed under the [MIT License](https://github.com/sharwapi/sharwapi_docs/blob/main/LICENSE-CODE.md) and [CC-BY-4.0 License](https://github.com/sharwapi/sharwapi_docs/blob/main/LICENSE-CONTENT.md).
-- [sharwapi_plugins_collection](https://github.com/sharwapi/sharwapi_plugins_collection) is licensed under the [MIT License](https://github.com/sharwapi/sharwapi_plugins_collection/blob/main/LICENSE.md).
-- [sharwapi.Plugin.guard](https://github.com/sharwapi/sharwapi.Plugin.guard) is licensed under the [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.guard/blob/main/LICENSE.md).
-- [sharwapi_market](https://github.com/sharwapi/sharwapi_market) is licensed under the [GNU Affero General Public License v3.0](https://github.com/sharwapi/sharwapi_market/blob/main/LICENSE.md).
-- [sharwapi.Plugin.apimgr](https://github.com/sharwapi/sharwapi.Plugin.apimgr) is licensed under the [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.apimgr/blob/main/LICENSE.md).
-- [sharwapi.Contracts.Core](https://github.com/sharwapi/sharwapi.Contracts.Core) is licensed under the [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Contracts.Core/blob/main/LICENSE.md).
+- [sharwapi_plugins_collection](https://github.com/sharwapi/sharwapi_plugins_collection) is licensed under the [MIT License](https://github.com/sharwapi/sharwapi_plugins_collection/blob/main/LICENSE).
+- [sharwapi.Plugin.guard](https://github.com/sharwapi/sharwapi.Plugin.guard) is licensed under the [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.guard/blob/main/LICENSE).
+- [sharwapi_market](https://github.com/sharwapi/sharwapi_market) is licensed under the [GNU Affero General Public License v3.0](https://github.com/sharwapi/sharwapi_market/blob/main/LICENSE).
+- [sharwapi.Plugin.apimgr](https://github.com/sharwapi/sharwapi.Plugin.apimgr) is licensed under the [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.apimgr/blob/main/LICENSE).
+- [sharwapi.Contracts.Core](https://github.com/sharwapi/sharwapi.Contracts.Core) is licensed under the [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Contracts.Core/blob/main/LICENSE).
 - [sharwapi.Core](https://github.com/sharwapi/sharwapi.Core) is licensed under the [GNU General Public License v3.0](https://github.com/sharwapi/sharwapi.Core/blob/main/LICENSE).
 
 ## Todo
