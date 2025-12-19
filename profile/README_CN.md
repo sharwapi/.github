@@ -9,7 +9,7 @@
 
 SharwAPI (又称Sharw's API) 是一款基于.NET开发的模块化API框架，轻量、高性能、可扩展，且简单易用。
 
-**[文档](https://sharwapi.hope-now.top)** | **[下载](https://github.com/sharwapi/sharwapi.core/releases)** | **[插件市场](https://sharwapi.hope-now.top/market)**
+**[文档](https://sharwapi.hope-now.top)** | **[下载](https://github.com/sharwapi/sharwapi.core/releases)** | **[插件市场](https://sharwapi-market.hope-now.top)**
 
 ## 特性
 
