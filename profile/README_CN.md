@@ -39,7 +39,7 @@ SharwAPI (又称Sharw's API) 是一款基于.NET开发的模块化API框架，�
 - [sharwapi.Plugin.guard](https://github.com/sharwapi/sharwapi.Plugin.guard) 基于 [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.guard/blob/main/LICENSE) 获得许可
 - [sharwapi_market](https://github.com/sharwapi/sharwapi_market) 基于 [GNU Affero General Public License v3.0](https://github.com/sharwapi/sharwapi_market/blob/main/LICENSE) 获得许可
 - [sharwapi.Plugin.apimgr](https://github.com/sharwapi/sharwapi.Plugin.apimgr) 基于 [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.apimgr/blob/main/LICENSE) 获得许可
-- [sharwapi.Contracts.Core](https://github.com/sharwapi/sharwapi.Contracts.Core) 基于 [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Contracts.Core/blob/main/LICENSE) 获得许可
+- [sharwapi.Contracts.Core](https://github.com/sharwapi/sharwapi.Contracts.Core) 基于 [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Contracts.Core/blob/main/COPYING.LESSER) 获得许可
 - [sharwapi.Core](https://github.com/sharwapi/sharwapi.Core) 基于 [GNU General Public License v3.0](https://github.com/sharwapi/sharwapi.Core/blob/main/LICENSE) 获得许可
 
 ## 待办

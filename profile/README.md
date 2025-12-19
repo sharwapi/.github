@@ -39,7 +39,7 @@ Different projects within this organization operate under different licenses, ro
 - [sharwapi.Plugin.guard](https://github.com/sharwapi/sharwapi.Plugin.guard) is licensed under the [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.guard/blob/main/LICENSE).
 - [sharwapi_market](https://github.com/sharwapi/sharwapi_market) is licensed under the [GNU Affero General Public License v3.0](https://github.com/sharwapi/sharwapi_market/blob/main/LICENSE).
 - [sharwapi.Plugin.apimgr](https://github.com/sharwapi/sharwapi.Plugin.apimgr) is licensed under the [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Plugin.apimgr/blob/main/LICENSE).
-- [sharwapi.Contracts.Core](https://github.com/sharwapi/sharwapi.Contracts.Core) is licensed under the [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Contracts.Core/blob/main/LICENSE).
+- [sharwapi.Contracts.Core](https://github.com/sharwapi/sharwapi.Contracts.Core) is licensed under the [GNU Lesser General Public License v3.0](https://github.com/sharwapi/sharwapi.Contracts.Core/blob/main/COPYING.LESSER).
 - [sharwapi.Core](https://github.com/sharwapi/sharwapi.Core) is licensed under the [GNU General Public License v3.0](https://github.com/sharwapi/sharwapi.Core/blob/main/LICENSE).
 
 ## Todo
