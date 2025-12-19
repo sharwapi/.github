@@ -3,7 +3,7 @@
 [简体中文](/profile/README_CN.md) | [English](/profile/README.md)
 
 [![Stars](https://img.shields.io/github/stars/sharwapi/sharwapi.core?label=Stars)](https://github.com/sharwapi/sharwapi.core)
-[![Github release](https://img.shields.io/github/v/tag/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/releases)
+[![Github release](https://img.shields.io/github/v/tag/sharwapi/sharwapi.core?label=API%20Release)](https://github.com/sharwapi/sharwapi.core/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/issues)
 
