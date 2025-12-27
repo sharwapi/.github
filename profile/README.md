@@ -2,11 +2,11 @@
 
 [简体中文](/profile/README_CN.md) | [English](/profile/README.md)
 
-[![Stars](https://img.shields.io/github/stars/sharwapi/sharwapi.core?label=Stars)](https://github.com/sharwapi/sharwapi.core)
+[![Stars](https://img.shields.io/github/stars/sharwapi/sharwapi.core?label=Stars&style=flat)](https://github.com/sharwapi/sharwapi.core)
 [![Github release](https://img.shields.io/github/v/tag/sharwapi/sharwapi.core?label=API%20Release)](https://github.com/sharwapi/sharwapi.core/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/issues)
-[![Deploys by Netlify](https://www.netlify.com/assets/badges/netlify-badge-color-accent.svg)](https://www.netlify.com)
+[![Deploys by Netlify](https://img.shields.io/netlify/95ae2090-5915-440a-bf9e-25320084e5bf?style=flat&label=Deploy%20by%20netlify)](https://www.netlify.com)
 
 SharwAPI (also known as Sharw's API) is a modular API framework built on .NET. It is lightweight, high-performance, extensible, and easy to use.
 
