@@ -6,6 +6,7 @@
 [![Github release](https://img.shields.io/github/v/tag/sharwapi/sharwapi.core?label=API)](https://github.com/sharwapi/sharwapi.core/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/issues)
+[![Deploys by Netlify](https://www.netlify.com/assets/badges/netlify-badge-color-accent.svg)](https://www.netlify.com)
 
 SharwAPI (又称Sharw's API) 是一款基于.NET开发的模块化API框架，轻量、高性能、可扩展，且简单易用。
 

@@ -6,6 +6,7 @@
 [![Github release](https://img.shields.io/github/v/tag/sharwapi/sharwapi.core?label=API%20Release)](https://github.com/sharwapi/sharwapi.core/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/sharwapi/sharwapi.core)](https://github.com/sharwapi/sharwapi.core/issues)
+[![Deploys by Netlify](https://www.netlify.com/assets/badges/netlify-badge-color-accent.svg)](https://www.netlify.com)
 
 SharwAPI (also known as Sharw's API) is a modular API framework built on .NET. It is lightweight, high-performance, extensible, and easy to use.
 
