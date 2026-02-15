@@ -45,9 +45,9 @@ Different projects within this organization operate under different licenses, ro
 
 ## Todo
 
-- [ ] Improve the plugin system.
+- [x] Improve the plugin system.
 - [ ] Develop a database service plugin.
-- [ ] Develop the plugin management system for the API framework.
+- [x] Develop the plugin management system for the API framework.
 - [ ] Draft the first edition of the Sharw API Plugin Specification.
 - [x] Release v0.1.0
 - [x] Change repositories from private to public
